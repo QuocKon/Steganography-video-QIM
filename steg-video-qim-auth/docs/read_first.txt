@@ -1,0 +1,5 @@
+The lab manual is at 
+   file://LAB_DOCS/steg-video-qim-auth.pdf
+
+You may open these by right clicking
+and select "Open Link".

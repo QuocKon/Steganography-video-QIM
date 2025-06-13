@@ -1,0 +1,4 @@
+wget
+steghide
+cat
+
